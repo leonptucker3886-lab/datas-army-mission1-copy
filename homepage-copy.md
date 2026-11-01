@@ -12,7 +12,7 @@ Buttons: **Start for my business** | **Become a reseller**
 3. **Wake up to leads.** Every call, message and booking shows up in your dashboard and inbox.
 
 ## What callers get
-- A friendly, natural voice that picks up on the first ring, 24/7
+- A friendly, natural voice that answers after-hours calls 24/7 *(claim to verify: ring-to-answer time)*
 - Answers about your hours, services, prices and service area
 - Appointment requests and callback scheduling
 - Urgent calls flagged and sent to you right away
@@ -22,11 +22,11 @@ Buttons: **Start for my business** | **Become a reseller**
 ## For local businesses (direct)
 **Built for plumbers, HVAC, dentists, salons, law offices, auto shops and anyone whose phone rings after close.**
 - Stop sending callers to voicemail. Most people who hit voicemail call the next business on the list.
-- Cheaper than an answering service, and it never calls in sick.
-- Set up in a day. No new phone number and no new hardware.
+- Built to cost less than a typical answering service, and it never calls in sick. *(claim to verify against approved pricing)*
+- Fast setup. No new phone number and no new hardware. *("set up in a day" removed until the build confirms it)*
 - See every call in your dashboard: transcript, caller details and next step.
 
-**CTA:** See plans and pricing → | Hear a sample call →
+**CTA:** See plans and pricing → | Book a 15-minute walkthrough →
 
 ---
 
@@ -47,7 +47,7 @@ Agencies, MSPs, phone system dealers and marketing consultants: give your client
 **Does it replace my staff?** No. It covers the hours when no one is there.
 **Can it handle emergencies?** Yes. You set which calls are urgent and it alerts you right away.
 **What does it know?** Whatever you upload: price lists, FAQs, policies and service areas.
-**Can I try it?** Yes. Call our demo line and hear it work.
+**Can I try it?** Yes. Book a 15-minute walkthrough and we'll show you how it works. A live demo line is coming soon.
 
 ## Final CTA
 **Your next customer is calling tonight. Let's make sure someone answers.**
