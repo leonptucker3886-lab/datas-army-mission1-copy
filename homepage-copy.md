@@ -23,7 +23,7 @@ Buttons: **Start for my business** | **Become a reseller**
 **Built for plumbers, HVAC, dentists, salons, law offices, auto shops and anyone whose phone rings after close.**
 - Stop sending callers to voicemail. Most people who hit voicemail call the next business on the list.
 - Built to cost less than a typical answering service, and it never calls in sick. *(claim to verify against approved pricing)*
-- Fast setup. No new phone number and no new hardware. *("set up in a day" removed until the build confirms it)*
+- Fast setup. No new phone number and no new hardware.
 - See every call in your dashboard: transcript, caller details and next step.
 
 **CTA:** See plans and pricing → | Book a 15-minute walkthrough →
